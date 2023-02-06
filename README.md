@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Startedv with Collbaoration
+## Getting Startedv with Collbaoration using PR
 
 First, run the development server:
 
